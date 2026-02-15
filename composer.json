@@ -1,0 +1,17 @@
+{
+    "name": "desir/tasca-s1.08",
+    "autoload": {
+        "psr-4": {
+            "Desir\\TascaS108\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "desifree",
+            "email": "desireecarol@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
